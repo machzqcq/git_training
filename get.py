@@ -1,1 +1,1 @@
-exists before manufacturer got created
+exists before manufacturer got created - this got changed
